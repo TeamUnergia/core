@@ -1,4 +1,4 @@
-#Unergia - Core (Website + Payment Portal)
-Website - Deployed on Private Servers
-Payment Portal - Running on DigitalOcean 
+#Unergia - Core (Website + Payment Portal) <br>
+Website - Deployed on Private Servers <br>
+Payment Portal - Running on DigitalOcean  <br>
 Blockchain -> Payment Portal -> Payment Gateway
